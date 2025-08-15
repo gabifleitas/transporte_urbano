@@ -1,3 +1,11 @@
+*EN:
+How to access the file:
+To access the file on GitHub, click on "View raw". After that, the Power BI file will be downloaded.*
+
+*ES:
+Cómo acceder al archivo:
+Para acceder al archivo en GitHub, haga clic en «Ver sin formato». A continuación, se descargará el archivo de Power BI.*
+
 # Urban Transport Optimisation – Power BI
 
 This project, developed as part of the **Unicorn Academy** bootcamp, presents a detailed analysis of travel data from the fictional company **Transporte Urbano S.A.**. The aim is to explore demand patterns, operational performance and opportunities for optimisation, using a data model designed for intraday analysis.
